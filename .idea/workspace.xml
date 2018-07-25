@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7b66ea77-c26f-408d-b99c-9880fd3218e3" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/.htaccess" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/ajax.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/assets/test.js" />
       <change beforePath="$PROJECT_DIR$/blank.html" afterPath="$PROJECT_DIR$/blank.html" />
-      <change beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -32,7 +27,7 @@
         <entry file="file://$PROJECT_DIR$/blank.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1032">
-              <caret line="307" column="48" lean-forward="true" selection-start-line="307" selection-start-column="48" selection-end-line="307" selection-end-column="48" />
+              <caret line="333" column="48" lean-forward="true" selection-start-line="333" selection-start-column="48" selection-end-line="333" selection-end-column="48" />
               <folding />
             </state>
           </provider>
@@ -142,7 +137,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CV-symfony" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -169,12 +164,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1532452743787</updated>
-      <workItem from="1532452745219" duration="3897000" />
+      <workItem from="1532452745219" duration="5108000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3897000" />
+    <option name="totallyTimeSpent" value="5108000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="150" width="1920" height="1055" extended-state="6" />
@@ -230,7 +225,7 @@
     <entry file="file://$PROJECT_DIR$/blank.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1032">
-          <caret line="307" column="48" lean-forward="true" selection-start-line="307" selection-start-column="48" selection-end-line="307" selection-end-column="48" />
+          <caret line="333" column="48" lean-forward="true" selection-start-line="333" selection-start-column="48" selection-end-line="333" selection-end-column="48" />
           <folding />
         </state>
       </provider>
